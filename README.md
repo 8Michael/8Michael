@@ -10,4 +10,4 @@
 | [Connect and Protect: Networks and Network Security](https://www.coursera.org/learn/networks-and-network-security/home/week/1) | Coursera | 14 | [Verify Here](https://coursera.org/verify/4BH23F3GEDQ7) | Portfolio |
 | [Tools of the Trade: Linux and SQL](https://www.coursera.org/learn/linux-and-sql/home/week/1) | Coursera | 27 | [Verify Here](https://coursera.org/verify/NAFSJP3ELT4F) | Portfolio |
 | [Assets, Threats, and Vulnerabilities](https://www.coursera.org/learn/assets-threats-and-vulnerabilities/home/week/1) | Coursera | 26 | [Verify Here](https://coursera.org/verify/QQKTLTBGDG56) | Portfolio |
-| [Sound the Alarm: Detection and Response](https://www.coursera.org/learn/detection-and-response/home/week/1) | Coursera | Hour(s) | [Verify Here]() | Portfolio |
+| [Sound the Alarm: Detection and Response](https://www.coursera.org/learn/detection-and-response/home/week/1) | Coursera | 24 | [Verify Here](https://coursera.org/verify/AR9T9LEVVJTQ) | Portfolio |
