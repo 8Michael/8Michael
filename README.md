@@ -3,6 +3,7 @@
 <p>I am an enthusiastic Cybersecurity learner who strives to make browsing the web safe and secure, from the evolving internet. I would like to hone my current programming and internet knowledge to combat potential cyber threats, ensuring sensitive information is protected for people and organizations alike. Additionally, I am eager to work with like-minded individuals to stay up to date with emerging Cybersecurity and technological trends.</p>
 
 ## Google Cybersecurity Professional Certificate
+[Professional Documents](https://github.com/8Michael/Google-Cybersecurity-Professional-Certificate-Profession-Documents/tree/main/Professional%20Documents)
 | Course Name | Course Provider | Hour(s) | Certificate | Portfolio |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity/home/week/1) | Coursera | 21 | [Verify Here](https://coursera.org/verify/QDTBQF2VY66S) | [Link](https://github.com/8Michael/Google-Cybersecurity-Professional-Certificate-Profession-Documents/tree/main/Professional%20Documents/Portfolio/Foundations%20of%20Cybersecurity%20Portfolio) |
